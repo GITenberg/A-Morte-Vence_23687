@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25994
     wikipedia: http://pt.wikipedia.org/wiki/Jo%C3%A3o_Grave
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23687#A-Morte-Vence
 edition_note: Segunda edição, emendada
 gutenberg_issued: '2007-12-03'
 gutenberg_type: Text

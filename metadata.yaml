@@ -1,0 +1,34 @@
+_repo: A-Morte-Vence_23687
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grave, João José
+    alias: Grave, Joao Jose
+    birthdate: 1872
+    deathdate: 1934
+    gutenberg_agent_id: '25994'
+    url: http://www.gutenberg.org/2009/agents/25994
+    wikipedia: http://pt.wikipedia.org/wiki/Jo%C3%A3o_Grave
+description: ''
+edition_note: Segunda edição, emendada
+gutenberg_issued: '2007-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23687'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: "Produced by Ricardo F. Diogo, Rita Farinha and the Online\r\nDistributed\
+  \ Proofreading Team at http://www.pgdp.net"
+publication_note: "Porto:\r\nLivraria Chardron, de Lélo & Irmão, L.^{da}\r\neditores--Rua\
+  \ das Carmelitas, 144\r\nAillaud e Bertrand--Lisboa-Paris\r\n1922"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: A Morte Vence
+url: http://www.gutenberg.org/ebooks/23687
